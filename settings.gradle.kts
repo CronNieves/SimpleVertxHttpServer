@@ -1,2 +1,1 @@
-rootProject.name = "simple-vertx-http-server"
-
+rootProject.name = "starter"
